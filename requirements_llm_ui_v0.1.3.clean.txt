@@ -1,0 +1,4 @@
+dashscope
+websockets>=11
+sounddevice
+pillow>=10.0.0
